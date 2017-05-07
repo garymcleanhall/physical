@@ -16,3 +16,6 @@
 [submodule "mongodb"]
 	path = mongodb
 	url = git@github.com:garymcleanhall/physical-mongodb.git
+[submodule "physical-sample"]
+	path = physical-sample
+	url = git@github.com:garymcleanhall/physical-sample.git
