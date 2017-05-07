@@ -1,0 +1,18 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:garymcleanhall/physical-core.git
+[submodule "dns"]
+	path = dns
+	url = git@github.com:garymcleanhall/physical-dns.git
+[submodule "express-middleware"]
+	path = express-middleware
+	url = git@github.com:garymcleanhall/physical-express-middleware.git
+[submodule "http"]
+	path = http
+	url = git@github.com:garymcleanhall/physical-http.git
+[submodule "smtp"]
+	path = smtp
+	url = git@github.com:garymcleanhall/physical-smtp.git
+[submodule "mongodb"]
+	path = mongodb
+	url = git@github.com:garymcleanhall/physical-mongodb.git
